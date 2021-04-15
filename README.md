@@ -1,5 +1,5 @@
 <h1 align="center">📰 Blog - Space Traveling</h1>
-<img src="./public/teste.png" alt="banner" width="80%" align="center"/>
+<img src="./public/teste.png" alt="banner" width="100%" align="center"/>
 
 ## 🧧 Sobre o Projeto
 * Esse blog foi um projeto desenvolvido durante um desafio do Ignite da Rocketseat! A ideia era desenvolver do 0 uma aplicação, desde o front-end até a conexão com o Prismic CMS para a publicação dos posts.
